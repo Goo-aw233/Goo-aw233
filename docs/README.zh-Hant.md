@@ -14,9 +14,9 @@
 
 ## 🤔 關於我
 
-| **時間** |   2019 - 現在   |   2022 - 2024   |          還沒有呢 ~~          |
-| ------- | --------------- | --------------- | ---------------------------- |
-| **名稱** | Windows Insider | Xbox Ambassador | Microsoft Student Ambassador |
+| **時間** |           2019 - 現在            |   2022 - 2024   |                                                還沒有呢 ~~                                                |
+| ------- | -------------------------------- | --------------- | -------------------------------------------------------------------------------------------------------- |
+| **名稱** | [Windows Insider](feedback-hub:) | Xbox Ambassador | [Microsoft Student Ambassador](https://mvp.microsoft.com/studentambassadors/?wt.mc_id=studentamb_265231) |
 
 - Blog: <https://goo-aw233.github.io>
 - MSPCManagerHelper: <https://github.com/Goo-aw233/MSPCManagerHelper>

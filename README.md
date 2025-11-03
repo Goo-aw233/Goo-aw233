@@ -16,7 +16,7 @@
 
 | **Time** |            2019 - Now            |   2022 - 2024   |                                              Pending Now ~~                                              |
 | -------- | -------------------------------- | --------------- | -------------------------------------------------------------------------------------------------------- |
-| **Name** | [Windows Insider](feedback-hub:) | Xbox Ambassador | [Microsoft Student Ambassador](https://mvp.microsoft.com/studentambassadors/?wt.mc_id=studentamb_265231) |
+| **Name** | [Windows Insider](feedback-hub:) | Xbox Ambassador | [Microsoft Student Ambassador](https://mvp.microsoft.com/studentambassadors/?wt.mc_id=studentamb_474966) |
 
 - Blog: <https://goo-aw233.github.io>
 - MSPCManagerHelper: <https://github.com/Goo-aw233/MSPCManagerHelper>
